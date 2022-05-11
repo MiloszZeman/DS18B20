@@ -1,0 +1,6 @@
+../Core/Src/ds18b20.c:14:6:delay_us	16	static
+../Core/Src/ds18b20.c:19:24:initialize_comm	8	static
+../Core/Src/ds18b20.c:31:6:write_bit	16	static
+../Core/Src/ds18b20.c:43:6:write_byte	24	static
+../Core/Src/ds18b20.c:49:9:read_bit	16	static
+../Core/Src/ds18b20.c:60:9:read_byte	16	static
