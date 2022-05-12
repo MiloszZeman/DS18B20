@@ -1,6 +1,10 @@
-../Core/Src/ds18b20.c:14:6:delay_us	16	static
-../Core/Src/ds18b20.c:19:24:initialize_comm	8	static
-../Core/Src/ds18b20.c:31:6:write_bit	16	static
-../Core/Src/ds18b20.c:43:6:write_byte	24	static
-../Core/Src/ds18b20.c:49:9:read_bit	16	static
-../Core/Src/ds18b20.c:60:9:read_byte	16	static
+../Core/Inc/ds18b20.h:46:16:_get_bit	16	static
+../Core/Inc/ds18b20.h:66:13:_send_ROM	24	static
+../Core/Src/ds18b20.c:16:6:_delay_us	16	static
+../Core/Src/ds18b20.c:22:15:identify_devices	24	static
+../Core/Src/ds18b20.c:61:24:_reset_pulse	8	static
+../Core/Src/ds18b20.c:73:6:_write_bit	16	static
+../Core/Src/ds18b20.c:85:6:_write_byte	24	static
+../Core/Src/ds18b20.c:90:9:_read_bit	16	static
+../Core/Src/ds18b20.c:101:9:_read_byte	16	static
+../Core/Src/ds18b20.c:108:9:_update_CRC	24	static
